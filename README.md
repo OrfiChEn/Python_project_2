@@ -82,10 +82,6 @@ We welcome contributions to improve this project! If you have suggestions, bug f
 2. Create a new branch for your changes.
 3. Submit a pull request explaining your modifications.
 
-## License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute it as long as proper credit is given.
-
 
 
 ---
